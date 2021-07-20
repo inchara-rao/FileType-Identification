@@ -1,0 +1,104 @@
+Extension:py
+Name:Python Script
+Format:Text
+Popularity:4.2
+Category:Developer
+Description:PY files mostly belong to Python by Python Software Foundation. Python is a dynamic object-oriented programming language that can be used for many kinds of software development. It offers strong support for integration with other languages and tools, comes with extensive standard libraries, and can be learned in a few days. .PY files can be executed with the Python interpreter and the .EXE container format itself can contain compiled Python source.
+Primarily associated with:Python
+File type:Script or Library
+Methods to open the file:You need a suitable software like Python to open a PY file.Without proper software you will receive a Windows message "How do you want to open this file?" or "Windows cannot open this file" or a similar Mac/iPhone/Android alert. If you cannot open your PY file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a PY file directly in the browser
+File classification:Source Code
+Mime type:application/x-python, text/plain, application/octet-stream
+Related files:pyo, pyc, pyw, rpy, pv, pyd, rpa, rpyc, pyx, zip, python, exe, rpym, whl, fy, sh, npy, pxi, the, ipynb
+Information to solve problems:Associate the PY file extension with the correct application.   Update your software that should actually open script or librarys. Because only the current version supports the latest PY file format. Search, therefore, e.g. on the Python Software Foundation manufacturer website after an available Python update. To make sure that your PY file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
+Extension:cpp
+Name:C++ Source Code File
+Format:Text
+Popularity:4.2
+Category:Developer
+Description:CPP files mostly belong to C++ by Borland Software Corporation. Use our "" below to analyze your CPP file and to see all text it contains.
+Primarily associated with:C++
+File type:Builder 6
+Methods to open the file:You need a suitable software like C++ to open a CPP file.Without proper software you will receive a Windows message "How do you want to open this file?" or "Windows cannot open this file" or a similar Mac/iPhone/Android alert. If you cannot open your CPP file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a CPP file directly in the browser
+Related files:ccp, h_, h, dev, o, guess, cbp, smt, c%2b%2b, makefile, sln, pde, gcc, tlog, exe, mex, vpc, swp, txt, md, dsw, ide, sym
+Information to solve problems:Associate the CPP file extension with the correct application.   Update your software that should actually open builder 6s. Because only the current version supports the latest CPP file format. Search, therefore, e.g. on the Borland Software Corporation manufacturer website after an available C++ update. To make sure that your CPP file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
+Extension:pdf
+Name:Portable Document Format File
+Format:Binary
+Popularity:4.1
+Category:Page
+Description:PDF files mostly belong to Acrobat by Adobe Systems Incorporated. Adobe Acrobat is a family of computer programs developed by Adobe Systems, designed to view, create, manipulate and manage files in Adobe's Portable Document Format (PDF). Some software in the family are commercial, and some are free. Adobe Reader (formerly Acrobat Reader) is available as a no-charge download from Adobe's Web site, and allows the viewing and printing of PDF files. Acrobat and Reader are widely used as a way to present information with a fixed layout similar to a paper publication. The PDF format has become a standard for document transfer between computer architectures. A PDF file retains formatting for the file being transmitted. Free viewers are available at the Adobe website and other locations. Starting in 2007, PDF files sent as attachments started to show up as spam. When the PDF file is opened, the spammed ad is shown.
+Primarily associated with:Acrobat
+File type:Portable Document Format
+Methods to open the file:You need a suitable software like Acrobat to open a PDF file.Without proper software you will receive a Windows message "How do you want to open this file?" or "Windows cannot open this file" or a similar Mac/iPhone/Android alert. If you cannot open your PDF file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a PDF file directly in the browser
+Mime type:application/pdf, application/x-pdf, application/acrobat, applications/vnd.pdf, text/pdf, text/x-pdf
+Identifier: %PDF-1. (provided by TrID database)
+Related files:jpg, check, epdf, docx, csi, zip, png, unknown, txt, do, jpeg, xdo, dcf, pptx, file, exe, online, mp4, xlsx, download, edn, pdx, env
+Information to solve problems:Associate the PDF file extension with the correct application.   Update your software that should actually open portable document formats. Because only the current version supports the latest PDF file format. Search, therefore, e.g. on the Adobe Systems Incorporated manufacturer website after an available Acrobat update. To make sure that your PDF file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
+Extension:XCODEPROJ
+Name:Xcode Project
+Format:Binary
+Popularity:2.7
+Category:Developer
+Description:XCODEPROJ files mostly belong to Xcode by Apple Inc. Xcode is a tool to help to create Mac OS X applications by assisting in the migration of code from other languages. This is a project file for an unfinished iPhone or Mac application in Apple's Xcode Obj-c Compiler.
+Primarily associated with:Xcode
+File type:Project
+Methods to open the file:You need a suitable software like How do you want to open this file? from Windows cannot open this file to open an XCODEPROJ file.Without proper software you will receive a Windows message "" or "" or a similar Mac/iPhone/Android alert. If you cannot open your XCODEPROJ file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a XCODEPROJ file directly in the browser
+File classification:Source Code
+Related files:pbxproj, dylib, defs, xcdatamodel, rpy, s5d
+Information to solve problems:Associate the XCODEPROJ file extension with the correct application.   Update your software that should actually open projects. Because only the current version supports the latest XCODEPROJ file format. Search, therefore, e.g. on the Apple Inc. manufacturer website after an available Xcode update. To make sure that your XCODEPROJ file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
+Extension:txt
+Name:Plain Text File
+Format:Text
+Popularity:3.8
+Category:Text
+Description:TXT files mostly belong to Text File. Open in Notepad, WordPad, or many other programs designated as text editors. A true text file will be pure ASCII text with no formatting. The Macintosh file type is: TEXT. The following initial hex bytes designate the specific file type: BOCU-1 Encoded = FBEE28 SCSU Encoded = 0EFEFF UTF-EBCDIC Encoded = DD736673 UTF-32 (LE) Encoded = FFFE0000 UTF-32 (BE) Encoded = 0000FEFF UTF-16 (LE) Encoded = FFFE UTF-16 (BE) Encoded = FEFF UTF-8 Encoded = EFBBBF UTF-7 Encoded = 2B2F76
+Primarily associated with:Text File
+File type:Text files
+Methods to open the file:You need a suitable software like Text File to open a TXT file.Without proper software you will receive a Windows message "How do you want to open this file?" or "Windows cannot open this file" or a similar Mac/iPhone/Android alert. If you cannot open your TXT file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a TXT file directly in the browser
+File classification:Text
+Mime type:text/plain, application/txt, browser/internal, text/anytext, widetext/plain, widetext/paragraph
+Program ID:txt_auto_file, txtfile, UltraEdit.txt
+Related files:check, zip, csi, edi, anon, json, jpg, pdf, exe, lic, xml, png, gif89a, x12, csv, docx, iq, file, html, hl7, ezm, now, unx
+Information to solve problems:Associate the TXT file extension with the correct application.   Update your software that should actually open Text files. Because only the current version supports the latest TXT file format. Search, therefore, e.g. on the manufacturer website after an available Text File update. To make sure that your TXT file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
+Extension:mp3
+Name:MP3 Audio File
+Format:Binary
+Popularity:4.2
+Category:Audio
+Description:MP3 files mostly belong to MPEG Audio Stream, Layer III. Initial File Contents is for a file produced by the Xing Encoder. Note: This file type can become infected and should be carefully scanned if someone sends you a file with this extension. The Macintosh type is: MPG3 Starting in October 2007 MP3 files started being used to carry spam messages starting with a stock pump and dump scheme. Expect more as some filters don't block MP3 files which are widely shared. In early 2008 infected files with the MP3 extension started to spread on Symbian OS devices (e.g., Nokia 6600, 6630, 6680 and other phones). Since the Symbian OS recognizes file formats and does not depend on the extension these renamed SIS installation files looked like data files. If a mobile device asks about an install when attempting to open an MP3 or other data file then beware as it's likely malware trying to infect the device.
+Primarily associated with:MPEG Audio Stream, Layer III
+File type:MPEG Audio Stream, Layer III files
+Methods to open the file:You need a suitable software like MPEG Audio Stream, Layer III to open an MP3 file.Without proper software you will receive a Windows message "How do you want to open this file?" or "Windows cannot open this file" or a similar Mac/iPhone/Android alert. If you cannot open your MP3 file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a MP3 file directly in the browser
+File classification:Audio
+Mime type:audio/mpeg, audio/x-mpeg, audio/mp3, audio/x-mp3, audio/mpeg3, audio/x-mpeg3, audio/mpg, audio/x-mpg, audio/x-mpegaudio
+Identifier: FF (provided by TrID database)
+Related files:check, m4r, jpg, wav, mp4, rgp, id3, lrc, bgm, m4a, exe, flac, audio, zip, aud, mpga, png, ztmp, bpp, vdj
+Information to solve problems:Associate the MP3 file extension with the correct application.   Update your software that should actually open MPEG Audio Stream, Layer III files. Because only the current version supports the latest MP3 file format. Search, therefore, e.g. on the manufacturer website after an available MPEG Audio Stream, Layer III update. To make sure that your MP3 file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
+Extension:java
+Name:Java Source Code File
+Format:Text
+Popularity:4.0
+Category:Developer
+Description:JAVA files mostly belong to Java by Sun. Multiple compilers use this for Java source code. Use any text editor to examine the code.
+Primarily associated with:Java
+File type:Source Code
+Methods to open the file:You need a suitable software like How do you want to open this file? from Windows cannot open this file to open a JAVA file.Without proper software you will receive a Windows message "" or "" or a similar Mac/iPhone/Android alert. If you cannot open your JAVA file correctly, try to right-click or long-press the file. Then click "Open with" and choose an application. You can also display a JAVA file directly in the browser
+File classification:Source Code
+Mime type:text/x-java-source, text/java, text/x-java, application/ms-java
+Related files:fu, ru, class, cp, kt, zip, iml, jj, prn, groovy, properties, jsc, jsp, sh, txt, html, check, project, trace, aix, jav, j, war
+Information to solve problems:Associate the JAVA file extension with the correct application.   Update your software that should actually open source codes. Because only the current version supports the latest JAVA file format. Search, therefore, e.g. on the Sun manufacturer website after an available Java update. To make sure that your JAVA file is not corrupted or virus-infected, get the file again and scan it with Google's virustotal.com.
+
+
