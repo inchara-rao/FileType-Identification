@@ -11,6 +11,9 @@ def scrapeFileext(extension):
         res = requests.get(BASE_URL + extension)
         soup = BeautifulSoup(res.text, "lxml")
         response = etree.HTML(str(soup))
+        if soup.find("title").text == '404 - File not found':
+            # print(extension)
+            return fileExts2
     except Exception as e:
         print(e)
         return fileExts2
@@ -87,5 +90,4 @@ def scrapeFileext(extension):
     except:
         pass
 
-    print("returning dict2")
     return fileExts2

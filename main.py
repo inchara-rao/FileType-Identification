@@ -5,7 +5,7 @@ from parsers.fileInfo import scrapeFileinfo
 def writeToFile(dictionary):
     outputFile = open("output/output.txt", "a")  # write to output file in append mode
     for key, value in dictionary.items():
-        print(f"{key}:{value}")
+        # print(f"{key}:{value}")
         outputFile.writelines(
             f"{key}:{value}\n"
         )  # for each key,value pair write to file
@@ -38,6 +38,7 @@ if __name__ == "__main__":
     fileNames = readFromFile()
     outputFile = open("output/output.txt", "w")
     outputFile.close()
+
     for file in fileNames:  # for each input in the file find info about extension
         extension = file.split(".")[-1]  # extract the extension
         print(
@@ -46,4 +47,5 @@ if __name__ == "__main__":
         d1 = scrapeFileinfo(extension)  # call findExt functon for each extension
         d2 = scrapeFileext(extension)
         d3 = Merge(d1, d2)
+
         writeToFile(d3)
