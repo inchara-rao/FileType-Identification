@@ -1,6 +1,6 @@
-#D-File Identification
+# File Type Identification
 
-#Problem statement
+# Problem statement
 This work sample requires you to identify different sources that could be used to identify details of a file type
 like following (but not limited to) 
 1. Short Description (explaining the usage of the file type)
@@ -15,7 +15,7 @@ The detailed problem statement is available in the documents directory.
 
 
 
-#Solution:
+# Solution:
 **Deliverable 1:**
 
 The data sources have been identified and the rationale behind using them is expanded in the dataSources.pdf file.
@@ -27,7 +27,7 @@ Implementation and Presentation of information about the given input file types 
 We considered two very good websites for getting the information about file types. Namely, fileinfo.com and fileext.com
 The reasons these have been chosen are the ease of data extraction and the amount of information that could be extracted. These two websites combined, had most of the information that we needed. Also, these data sources do not need the exact file to be present which prevents the overhead and also pretty much solves the problem of effectively identifying and categorizing a file into its type solely based on the Extension and Name of the file itself.
 
-#Excetution flow:
+# Excetution flow:
 There are 4 directories, namely, documents, input, parsers, and output and there is a main.py and requirements.txt file.
 
 **Step 1 - Install python dependencies from the requirement.txt file.**
